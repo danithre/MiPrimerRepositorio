@@ -1,1 +1,6 @@
 asdfasdfasdfasd
+
+  git config --global user.email "JOSE.GONZALEZC22@est.unanleon.edu.ni"
+  git config --global user.name "danithre"
+
+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
